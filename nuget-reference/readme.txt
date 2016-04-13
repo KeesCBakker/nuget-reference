@@ -1,5 +1,6 @@
 === NuGet Reference ===
 Contributors: Kees C. Bakker
+Donate link: http://keestalkstech.com
 Tags: nuget
 License: MIT
 License URI: https://opensource.org/licenses/MIT
@@ -18,7 +19,24 @@ Examples:
 [nuget]Install-Package Microsoft.CodeAnalysis -Pre[/nuget]
 [nuget href="https://www.nuget.org/packages/Microsoft.CodeAnalysis/2.0.0-beta1"]Install-Package Microsoft.CodeAnalysis -Pre[/nuget]
 
+== Installation ==
+Upload the plugin to your blog.
+
+== Frequently Asked Questions ==
+
+How to use it? 
+Just add the shortcode [nuget]{command}[/nuget] to your post. Use a link-attribute to 
+generate a link to NuGet.
+
+== Screenshots ==
+
+There a no screenshots.
+
 == Changelog ==
 
 = 0.1.7 =
 - Out of beta
+
+== Upgrade Notice == 
+
+This version is backwards compatible with the previous.
