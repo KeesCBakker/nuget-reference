@@ -1,0 +1,39 @@
+.nuget {
+    display: block;
+    background-color: black;
+    color: #EEE;
+    border: inset 3px #eee;
+    border-radius: 4px;
+    font-family: monospace;
+}
+.nuget__inner {
+    display: table;
+    width: 100%;
+}
+.nuget__inner > * {
+    display: table-cell;
+    padding: 1em;
+}
+.nuget__code:before {
+    content: 'PM>'
+}
+.nuget__link {
+    text-decoration: none;
+    color: #bbb;
+    width: 1em;
+}
+.nuget__link:hover {
+    color: #fff;
+}
+.nuget__link-label {
+    height: 1em;
+    overflow: hidden;
+    display: inline-block;
+    transition: color 0.5s ease;
+}
+.nuget__link-label-caption {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: -0.3em;
+}
