@@ -6,7 +6,7 @@ License: MIT
 License URI: https://opensource.org/licenses/MIT
 Requires at least: 3.5
 Tested up to: 4.5
-Stable tag: 0.1.7
+Stable tag: 0.1.8
 
 Adds a nice looking NuGet reference to your blog posts. 
 
@@ -34,7 +34,7 @@ There a no screenshots.
 
 == Changelog ==
 
-= 0.1.7 =
+= 0.1.8 =
 - Out of beta
 
 == Upgrade Notice == 

@@ -2,7 +2,7 @@
 /*
 * Plugin Name: NuGet Reference
 * Description: Adds a nice looking NuGet reference to your blog posts. Example: [nuget href="https://www.nuget.org/packages/Microsoft.CodeAnalysis/2.0.0-beta1"]Install-Package Microsoft.CodeAnalysis -Pre[/nuget]
-* Version: 0.1.7
+* Version: 0.1.8
 * Author: Kees C. Bakker
 * Author URI: http://keestalkstech.com 
 * Text Domain: nuget-reference
