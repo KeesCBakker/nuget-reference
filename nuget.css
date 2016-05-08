@@ -5,6 +5,7 @@
     border: inset 3px #eee;
     border-radius: 4px;
     font-family: monospace;
+	margin-bottom:1em;
 }
 .nuget__inner {
     display: table;
@@ -15,7 +16,7 @@
     padding: 1em;
 }
 .nuget__code:before {
-    content: 'PM>'
+    content: 'PM> '
 }
 .nuget__link {
     text-decoration: none;
